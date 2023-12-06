@@ -1,1 +1,2 @@
 Hello guys it is test repository's file
+This is new code section
